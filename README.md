@@ -6,6 +6,6 @@
     
 ### 2. Modelagem 1
 
-[Modelagem 1]() mostra a evolução do aluguel de imóveis.
+[Modelagem 1](iris) mostra a evolução do aluguel de imóveis.
 
 ### 3. Modelagem 2
